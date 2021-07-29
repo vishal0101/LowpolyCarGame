@@ -579,4 +579,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/User/Documents/My game/lowPolyCarGame/Build/lowPolyCarGame.exe
+  playerPath: C:/Users/User/Documents/My game/lowPolyCarGame/Build1/lowPolyCarGame.exe

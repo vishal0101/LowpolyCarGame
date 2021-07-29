@@ -13,7 +13,7 @@ public class CameraFollow : MonoBehaviour
 
     void Start()
     {
-        transform.eulerAngles = eulerRotation;
+       transform.eulerAngles = eulerRotation;
     }
 
 
